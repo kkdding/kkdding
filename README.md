@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<p><img width="60%" alt="Hello！ I'm wm ding. I'm making progress!" src="./assets/readme-header.png" /></p>
-
 <br />
 
 *I'm a passionate BackEnd learner.*
