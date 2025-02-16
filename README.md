@@ -5,10 +5,10 @@
 
 **About me**
 - 🌱 Learning computer technology.
-- 🔭 Working online.
+- 🔭 Working efficiently.
 - 👯 Seeking like-minded companions.
 - 🤔 Pondering things beyond technology.
-- 💬 Ask me about anything and I want to become good friends with you all.
+- 💬 Communicate with me about anything and I want to become good friends with you all.
 
 <br />
 <br />
